@@ -1,4 +1,3 @@
-# ecodivilas
 <h1 align="center">Hi 👋, I'm Ely</h1>
 <h3 align="center">A "web wizard" on a mission to master all skills and conquer challenges.</h3>
 
