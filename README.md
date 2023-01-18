@@ -1,9 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ely</h1>
-<h3 align="center">A "web wizard" on a mission to master all skills and conquer challenges.</h3>
+<h1 align="center"> 📸 🛰️ 🗺️ 🎶 🚀</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- Passionate Software Engineer ⌨️
+- Currently focused on becoming proficient in creating and sustaining high-impact, scalable, and valuable web applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1></h1>
+
+<details open>
+<summary>📜 Languages</summary>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+</details>
+
+<details>
+  <summary>🧪 Technologies</summary>
+
+#### Frontend
+
+![ReactJS](https://img.shields.io/badge/-React.js-000?&logo=React)
+![Boostrap](https://img.shields.io/badge/-Boostrap-000?&logo=bootstrap)
+![less](https://img.shields.io/badge/-less-000?&logo=less&logoColor=16537e)
+
+#### Backend
+
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=103e2e)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+
+#### Layout and Design
+
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-000?&logo=adobeindesign)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?&logo=adobelightroom)
+![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-000?&logo=adobepremierepro)
+![Adobe AfterEffects](https://img.shields.io/badge/-Adobe%20AfterEffects-000?&logo=adobeaftereffects)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=autocad)
+
+#### Productivity Tools and Services
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=Wordpress)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+#### Database-related
+
+a
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![SQlite](https://img.shields.io/badge/-SQlite-000?&logo=sqlite&logoColor=3d85c6)
+
+</details>
+
+<h1></h1>
