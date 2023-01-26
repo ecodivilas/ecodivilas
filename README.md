@@ -55,4 +55,6 @@ a
 
 </details>
 
+[chartreuse-dark]: https://github-readme-stats.vercel.app/api?username=ecodivilas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark
+
 <h1></h1>
