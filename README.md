@@ -56,6 +56,5 @@ a
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecodivilas&theme=chartreuse-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecodivilas&layout=compact)](https://github.com/ecodivilas/github-readme-stats)
 
 <h1></h1>
