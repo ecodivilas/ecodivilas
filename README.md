@@ -57,4 +57,11 @@ a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecodivilas&theme=chartreuse-dark&show_icons=true)
 
-<h1></h1>
+<summary>⚡ GitHub Statistics</summary>
+<img src="https://github-readme-stat-stacks-canonminds.vercel.app/api?username=ecodivilas&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&cache_seconds=86400&hide=contribs,issues&card_width=500"/>
+</details>
+
+<details>
+<summary>⚡ Most Used Languages</summary>
+<img src="https://github-readme-stat-stacks-canonminds.vercel.app/api/top-langs/?username=ecodivilas&hide=html,css,scss&hide_title=true&hide_border=true&layout=default&include_all_commits=true&langs_count=10&count_private=true&exclude_repo=climate-tagging-ph-master,climate-tag-ph&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=500"/>
+</details>
