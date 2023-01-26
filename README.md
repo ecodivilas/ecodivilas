@@ -55,6 +55,6 @@ a
 
 </details>
 
-[chartreuse-dark]: https://github-readme-stats.vercel.app/api?username=ecodivilas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecodivilas&theme=chartreuse-dark&show_icons=true)
 
 <h1></h1>
