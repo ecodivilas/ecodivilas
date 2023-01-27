@@ -1,4 +1,4 @@
-<h1 align="center"> 📸 🛰️ 🗺️ 🎶 🚀</h1>
+<h1 align="center"> 📸 🛰️ 🗺️ 🌊 🏄 📚 🎸 🎶 🚀</h1>
 
 🔥 Passionate Software Engineer ⌨️ <br>
 📚 Building impactful, scalable web apps: always learning, always growing
