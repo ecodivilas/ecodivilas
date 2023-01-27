@@ -1,9 +1,8 @@
 <h1 align="center"> 📸 🛰️ 🗺️ 🎶 🚀</h1>
 
-- Passionate Software Engineer ⌨️
-- Currently focused on becoming proficient in creating and sustaining high-impact, scalable, and valuable web applications.
+🔥 Passionate Software Engineer ⌨️
+📚 Currently focused on becoming proficient in creating and sustaining high-impact, scalable, and valuable web applications.
 
-<h1></h1>
 
 <details open>
 <summary>📜 Languages</summary>
