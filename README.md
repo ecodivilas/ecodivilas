@@ -54,4 +54,4 @@ a
 
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecodivilas&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecodivilas&theme=chartreuse-dark&show_icons=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&cache_seconds=86400&hide=contribs,issues&card_width=500)
