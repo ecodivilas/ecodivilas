@@ -2,7 +2,7 @@
 
 🔥 Passionate Software Engineer ⌨️ <br>
 📚 Building impactful, scalable web apps: always learning, always growing
-<img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px; text-align: center" alt="Iconic GIF">
+<img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px" alt="Iconic GIF">
 <details open>
 <summary>📜 Languages</summary>
 
