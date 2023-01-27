@@ -1,6 +1,10 @@
 <h1 align="center"> 📸 🛰️ 🗺️ 🌊 🏄 📚 🎸 🎶 🚀</h1>
 
-<img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px" alt="Iconic GIF"> <br>
+<img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px" alt="Iconic GIF">
+<img src="https://i.pinimg.com/originals/1a/82/8a/1a828a1a4464e5fb83196b04efebc17d.gif" style="height: 100px" alt="Iconic GIF">
+<br>
+
+
 
 🔥 Passionate Software Engineer ⌨️ <br>
 📚 Building impactful, scalable web apps: always learning, always growing <br>
