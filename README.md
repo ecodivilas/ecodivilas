@@ -12,19 +12,26 @@
 
 <h1 align="center"> 📸 🛰️ 🗺️ 🌊 🏄 📚 🎸 🎶 🚀</h1>
 
+![1st Portal Badge](https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif){:height="100px" width="120px"}
+
+<!-- <img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px; margin-top: 10px;" alt="Iconic GIF">
+
+<img src="https://i.kym-cdn.com/photos/images/original/001/123/732/1e7.gif" alt="Iconic GIF" style="height: 100px; margin-top: 10px" >
+
+<img src="https://i.pinimg.com/originals/1a/82/8a/1a828a1a4464e5fb83196b04efebc17d.gif" style="height: 130px" alt="Iconic GIF">
+
 <div class="row">
   <div class="column">
     <img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px; margin-top: 10px" alt="Iconic GIF">
   </div>
   <div class="column">
-    <!-- <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif" style="height: 125px" alt="Iconic GIF"> -->
     <img src="https://i.kym-cdn.com/photos/images/original/001/123/732/1e7.gif" alt="Iconic GIF" style="height: 100px; margin-top: 10px" >
   </div>
   <div class="column">
     <img src="https://i.pinimg.com/originals/1a/82/8a/1a828a1a4464e5fb83196b04efebc17d.gif" style="height: 130px" alt="Iconic GIF">
   </div>
   <div class="column"> </div>
-</div>
+</div> -->
 
 <br>
 
