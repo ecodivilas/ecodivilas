@@ -53,7 +53,6 @@
 
 #### Database-related
 
-a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![SQlite](https://img.shields.io/badge/-SQlite-000?&logo=sqlite&logoColor=3d85c6)
