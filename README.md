@@ -1,4 +1,4 @@
-<h1 align="center">📸 💻 🗺️ 🌊 🛣️<br> 📚 🎹 🎸 🎶 🎮 🚀</h1>
+<h1 align="center">📸 🗺️ 🌊 🛣️ 💻 <br> 📚 🎹 🎸 🎶 🎮 🚀</h1>
 
 - ⌨️ Team-player and solution-driven Software Engineer
 - 📚 Creating scalable web apps, constantly learning, and pushing boundaries
